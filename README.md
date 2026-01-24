@@ -1,1 +1,1 @@
-# AdhikaarAI
+# Adhikaar.AI
