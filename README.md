@@ -1,222 +1,174 @@
 # Adhikaar.AI  
-### *Accelerating Justice. Empowering Decisions.*  
-### *न्याय को गति, निर्णय को शक्ति।*
+**Accelerating Justice. Empowering Decisions.**  
+**न्याय को गति, निर्णय को शक्ति।**
 
-Adhikaar.AI is India’s Judicial Intelligence Layer — a national-scale digital public infrastructure for justice.
+Adhikaar.AI is India’s Judicial Intelligence Layer — a national-scale digital public infrastructure designed to modernize how justice is understood, accessed, and delivered.
 
-Just as Aadhaar transformed identity and UPI transformed payments, Adhikaar.AI is designed to transform how justice is understood, accessed, and delivered in India.
+Just as Aadhaar transformed identity and UPI transformed payments, Adhikaar.AI is built to transform the justice system with intelligence, transparency, and scale.
 
 It is not a chatbot.  
-It is not a legal search tool.  
-It is a living, explainable, federated intelligence system for the Indian judiciary.
+It is not a legal search engine.  
+It is a sovereign, explainable AI system for the judiciary.
 
 ---
 
-## 🌏 The Problem
+## Overview
 
-India’s justice system faces:
+India’s justice system faces unprecedented scale:
 
-- 5+ crore pending cases  
+- Crores of pending cases  
 - Fragmented court data  
 - PDF-based judgments with no machine understanding  
-- Isolated judicial reasoning  
-- Expensive and unequal access to legal knowledge  
-- Citizens who don’t understand their own rights  
+- Unequal access to legal knowledge  
 
-We digitized identity.  
-We digitized money.  
-We never digitized *justice*.
+Adhikaar.AI addresses this by creating a unified, machine-readable intelligence layer over Indian law—turning static judgments into living knowledge.
 
 ---
 
-## 🧠 The Vision
+## Core Engine: Case Intelligence Graph
 
-> Build a neutral, explainable, sovereign AI layer that understands Indian law as a living system.
+At the heart of Adhikaar.AI is the **Case Intelligence Graph**:
 
-Adhikaar.AI:
+- Nodes: Cases, Judges, Courts, Acts, Sections  
+- Edges: Citations, decisions, applications, patterns  
 
-- Understands every judgment  
-- Connects every precedent  
-- Learns from every case  
-- Assists every stakeholder  
-- Preserves judicial independence  
-- Improves speed, consistency, and access to justice  
+This converts isolated documents into a connected legal knowledge network, enabling:
 
-Not replacing humans.  
-**Augmenting the institution.**
-
----
-
-## 🧩 Core Engine: The Case Intelligence Graph
-
-At the heart of Adhikaar.AI is the **Case Intelligence Graph** —  
-India’s first machine-readable map of law.
-
-Every entity becomes a node:
-
-- 📄 Case  
-- ⚖️ Judge  
-- 🏛️ Court  
-- 📚 Act & Section  
-- 🏷️ Issue Type  
-
-Every relationship becomes an edge:
-
-- Case → cites → Case  
-- Judge → decides → Case  
-- Section → applied in → Case  
-- Court → handles → Case type  
-
-This transforms static PDFs into **living legal knowledge**.
-
----
-
-## 🔐 Three Sovereign Realms
-
-### ⚖️ Bench Mode (Judges)
-- Similar past cases  
-- Binding & conflicting precedents  
-- Personal judicial history  
-- National trend patterns  
-- Delay & complexity indicators  
-
-Advisory, neutral, logged, auditable.
-
----
-
-### 👨‍⚖️ Advocate Mode (Lawyers)
 - Similar-case discovery  
-- Judge behavior patterns  
+- Precedent mapping  
+- Trend and conflict analysis  
+- System-wide judicial intelligence  
+
+---
+
+## User Realms
+
+### Bench Mode (Judges)
+- Binding and conflicting precedents  
+- Personal and national decision patterns  
+- Complexity and delay indicators  
+- Advisory, neutral, and fully auditable  
+
+### Advocate Mode (Lawyers)
+- Similar-case intelligence  
+- Strategic insights  
 - Precedent ranking  
-- Drafting assistance  
-- Case lifecycle modeling  
+- Drafting and case modeling  
 
-Law becomes data-driven.
-
----
-
-### 🧑 Nyay Sathi Mode (Citizens)
-- Rights explained in native language  
-- “What to do if…” guidance  
-- FIR / RTI / Complaint drafting  
-- Case tracking  
-- Legal awareness  
-
-Justice becomes understandable.
+### Nyay Sathi (Citizens)
+- Rights explained in simple language  
+- Step-by-step legal guidance  
+- FIR / RTI / complaint drafting  
+- Case tracking and awareness  
 
 ---
 
-## 🛡️ Explainable & Accountable AI
+## Principles
 
-Every insight shows:
-
-- Source cases  
-- Source paragraphs  
-- Sections relied upon  
-- Similarity reasoning  
-- Confidence levels  
-
-Every judicial interaction is:
-
-- Logged  
-- Time-stamped  
-- Reproducible  
-- Auditable  
-
-No black boxes.  
-No invisible influence.
+- **Explainable by Design:** Every output is source-linked and traceable  
+- **Judicial Independence:** No prescriptive decisions  
+- **Auditability:** All interactions are logged and reproducible  
+- **Language Justice:** Native support for major Indian languages  
+- **Sovereignty:** Built for India’s federal and democratic structure  
 
 ---
 
-## 🌐 Language Justice
+## What Adhikaar.AI Is
 
-Native legal understanding in:
+Not a SaaS product.  
+Not a legal bot.  
 
-- Hindi  
-- Odia  
-- Bengali  
-- Tamil  
-- Telugu  
-- Marathi  
-- Urdu  
-- Kannada  
-- Malayalam  
-
-A farmer in Odisha should understand the law as clearly as a lawyer in Delhi.
-
----
-
-## 🏛️ National Integration
-
-Adhikaar.AI is designed to integrate with:
-
-- eCourts  
-- NJDG  
-- Supreme Court systems  
-- DigiLocker  
-- FIR & grievance systems  
-- Legal Services Authorities  
-
-It becomes the **digital nervous system of justice**.
-
----
-
-## 🔒 Federal & Sovereign by Design
-
-- Data stays with courts  
-- Intelligence is federated  
-- Learning is anonymized  
-- No central surveillance  
-- Judicial independence preserved  
-
-Built for a federal democracy.
-
----
-
-## 🚀 What This Enables
-
-- Faster justice  
-- Reduced backlog  
-- Consistent reasoning  
-- Lower cost of legal access  
-- National visibility into judicial health  
-- Trust in the system  
-
----
-
-## 🧭 What Adhikaar.AI Is
-
-Not:
-
-- ❌ A legal chatbot  
-- ❌ A research SaaS  
-- ❌ A startup gimmick  
-
-But:
-
-> **Digital Public Infrastructure for Justice**
+> A **Digital Public Infrastructure for Justice**.
 
 Like:
-
 - Aadhaar → Identity  
-- UPI → Money  
+- UPI → Payments  
 - DigiLocker → Documents  
 
 **Adhikaar.AI → Justice Intelligence**
 
 ---
 
-## 📜 License & Ethos
+## System Workflow
 
-Adhikaar.AI is built in the spirit of:
-
-- Neutrality  
-- Transparency  
-- Sovereignty  
-- Public good  
-- Long-term nation building  
-
-This repository represents the foundation of a system meant to serve India for decades.
+        
+             ┌─────────────────────────────┐
+             │     Indian Legal Sources    │
+             │                             │
+             │  • Supreme Court Judgments  │
+             │  • High Court Judgments     │
+             │  • District Court Metadata  │
+             │  • eCourts / NJDG           │
+             │  • FIR & Public Records     │
+             └──────────────┬──────────────┘
+                            │
+                            ▼
+        ┌───────────────────────────────────────────────┐
+        │               Ingestion Layer                 │
+        │  - PDF parsing & normalization                │
+        │  - API & registry connectors                  │
+        │  - Versioning & provenance tracking           │
+        └──────────────┬────────────────────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────────────────────┐
+        │          Legal Structuring Engine             │
+        │  - Case metadata extraction                   │
+        │  - Judge & court identification               │
+        │  - Act & Section detection                    │
+        │  - Citation & precedent parsing               │
+        │  - Outcome classification                     │
+        └──────────────┬────────────────────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────────────────────┐
+        │         Semantic Intelligence Layer           │
+        │  - Legal embeddings                           │
+        │  - Fact & issue modeling                      │
+        │  - Context-aware similarity vectors           │
+        │  - Multilingual legal understanding           │
+        └──────────────┬────────────────────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────────────────────┐
+        │           Case Intelligence Graph             │
+        │                                               │
+        │  Nodes:                                       │
+        │   • Cases  • Judges  • Courts                 │
+        │   • Acts   • Sections • Issues                │
+        │                                               │
+        │  Edges:                                       │
+        │   • Cites  • Decided-By  • Applied-In         │
+        │   • Similar-To  • Follows  • Conflicts-With   │
+        └──────────────┬────────────────────────────────┘
+                       │
+                       ▼
+        ┌───────────────────────────────────────────────┐
+        │        Explainable Intelligence APIs          │
+        │  - Similarity & precedent scoring             │
+        │  - Conflict & divergence detection            │
+        │  - Trend & delay analytics                    │
+        │  - Source-linked reasoning                    │
+        │  - Full audit trails                          │
+        └──────────────┬────────────────────────────────┘
+                       │
+                       ▼
+        ┌────────────────────────────────────────────────┐
+        │                 User Realms                    │
+        │                                                │
+        │  Bench Mode (Judges)                           │
+        │   - Precedents & conflicts                     │
+        │   - Judicial history                           │
+        │   - Neutral, auditable insights                │
+        │                                                │
+        │  Advocate Mode (Lawyers)                       │
+        │   - Similar cases & strategy                   │
+        │   - Drafting & preparation                     │
+        │                                                │
+        │  Nyay Sathi (Citizens)                         │
+        │   - Rights & guidance                          │
+        │   - Drafting & tracking                        │
+        └────────────────────────────────────────────────┘
 
 ---
 
