@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useToast } from "@/hooks/use-toast";
 import { useAuth } from "@/contexts/AuthContext";
+import logoPath from "@assets/AdikaarAI_Logo_1775754358123.png";
 
 type Tab = "login" | "signup";
 type Role = "citizen" | "lawyer";
@@ -57,9 +58,7 @@ export default function AuthPage() {
     <div className="min-h-screen bg-background flex items-center justify-center p-4">
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-lg">
-            <span className="text-lg font-bold">A</span>
-          </div>
+          <img src={logoPath} alt="Adhikaar.AI" className="mx-auto mb-4 h-14 w-14 object-contain" />
           <h1 className="text-2xl font-semibold">Adhikaar.AI</h1>
           <p className="text-muted-foreground text-sm">India's Legal AI Platform</p>
         </div>
